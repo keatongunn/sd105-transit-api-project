@@ -1,0 +1,67 @@
+{
+  "stops": [
+    {
+      "key": 10064,
+      "name": "Northbound Osborne at Glasgow",
+      "number": 10064,
+      "direction": "Northbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2715,
+        "name": "Osborne Street",
+        "type": "Street"
+      },
+      "cross-street": {
+        "key": 1486,
+        "name": "Glasgow Avenue",
+        "type": "Avenue"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633838,
+          "y": 5525742
+        },
+        "geographic": {
+          "latitude": "49.86912",
+          "longitude": "-97.1375"
+        }
+      },
+      "distances": {
+        "direct": "60.54"
+      }
+    },
+    {
+      "key": 10002,
+      "name": "Southbound Osborne at Woodward",
+      "number": 10002,
+      "direction": "Southbound",
+      "side": "Nearside",
+      "street": {
+        "key": 2715,
+        "name": "Osborne Street",
+        "type": "Street"
+      },
+      "cross-street": {
+        "key": 3985,
+        "name": "Woodward Avenue",
+        "type": "Avenue"
+      },
+      "centre": {
+        "utm": {
+          "zone": "14U",
+          "x": 633835,
+          "y": 5525710
+        },
+        "geographic": {
+          "latitude": "49.86883",
+          "longitude": "-97.13755"
+        }
+      },
+      "distances": {
+        "direct": "91.76"
+      }
+    }
+  ],
+  "query-time": "2021-12-08T12:30:55"
+}
